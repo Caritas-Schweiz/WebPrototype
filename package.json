@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "leaflet": "^1.9.4",
+    "ng2-charts": "^6.0.0",
+    "pandas-js": "^0.2.4"
+  }
+}
